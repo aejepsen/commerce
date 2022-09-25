@@ -7,9 +7,11 @@
   >> **desafio2.js**
 - > Retorne o lanche mais vendido, mostrando apenas o nome e a quantidade do lanche mais vendido:
   >> **desafio3.js**
-- 4 - Retorne os lanches que tiveram vendas maiores que 50 e menores que 100, mostrando apenas o nome e a quantidade de lanches vendidos em ordem crescente: Resposta: **desafio4.js**
-- 5 - Retorne o nome, as curtidas e vendidos dos lanches que tiveram quantidade de curtidas igual a 36 ou tenham a quantidade de vendas igual a 85: Resposta: **desafio5.js**
-6 - Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100
+- >> Retorne os lanches que tiveram vendas maiores que 50 e menores que 100, mostrando apenas o nome e a quantidade de lanches vendidos em ordem crescente:
+  >> **desafio4.js**
+- >> Retorne o nome, as curtidas e vendidos dos lanches que tiveram quantidade de curtidas igual a 36 ou tenham a quantidade de vendas igual a 85:
+  > **desafio5.js**
+- >> Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100
 Esta escrito no arquivo desafio6.js
 7 - Retorne o nome e vendidos dos lanches que tenham sido vendidos com uma quantidade diferente de 50 e em que o campo tags não exista
 Esta escrito no arquivo desafio7.js
