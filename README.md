@@ -1,7 +1,7 @@
 # Projeto de MongoBD
-O projeto está desenvolvido em varios arquivos dentro da pasta challenges renomeados em ordem seguindo o padrão desafio1...
-Querys dos respectivos desafios
-1 - Retorne a quantidade de documentos inseridos na coleção produtos
+##O projeto está desenvolvido em varios arquivos dentro da pasta challenges renomeados em ordem seguindo o padrão desafio1...
+###Querys dos respectivos desafios
+- 1 Retorne a quantidade de documentos inseridos na coleção produtos
 Esta escrito no arquivo desafio1.js
 2 - Ordene a coleção produtos pela quantidade de lanches vendidos em ordem crescente, mostrando apenas o nome e a quantidade de lanches vendidos
 Esta escrito no arquivo desafio2.js
