@@ -28,7 +28,7 @@
 13. > Inclua o campo criadoPor em todos os documentos, colocando Ronald McDonald no valor desse campo
     >> desafio13.js
 14. > Crie uma query que retorne todos os lanches que possuem picles em seus ingredientes e mostre apenas os 3 primeiros itens contidos no array valoresNutricionais. Sua query deve retornar apenas os campos nome, ingredientes e valoresNutricionais.
-   >> desafio14.js
+    >> desafio14.js
 15. > Adicione o campo avaliacao em todos os documentos da coleção e efetue alterações nesse campo
 Crie uma query que inclua o campo avaliacao do tipo NumberInt, com o valor 0 em todos os documentos da coleção.Crie uma query que incremente o valor do campo avaliacao em 5 em todos os sanduíches de carne do tipo bovino. eyesDe olho na dica: utilize como filtro o campo tags.Crie uma query que incremente o valor do campo avaliacao em 3 em todos os sanduíches de ave.Crie uma query que retorne o nome e avaliacao de todos os sanduíches.
     >> desafio15.js
