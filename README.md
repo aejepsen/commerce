@@ -11,10 +11,10 @@
   >> **desafio4.js**
 - >> Retorne o nome, as curtidas e vendidos dos lanches que tiveram quantidade de curtidas igual a 36 ou tenham a quantidade de vendas igual a 85:
   > **desafio5.js**
-- >> Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100
-Esta escrito no arquivo desafio6.js
-7 - Retorne o nome e vendidos dos lanches que tenham sido vendidos com uma quantidade diferente de 50 e em que o campo tags não exista
-Esta escrito no arquivo desafio7.js
+- > Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100:
+  >> desafio6.js
+7 > Retorne o nome e vendidos dos lanches que tenham sido vendidos com uma quantidade diferente de 50 e em que o campo tags não exista:
+  >> desafio7.js
 8 - Delete os lanches com menos de 50 curtidas e retorne o nome dos lanches que restaram no banco
 Esta escrito no arquivo desafio8.js
 9 - Retorne o nome de todos os lanches que possuam calorias abaixo de 500
