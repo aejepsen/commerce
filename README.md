@@ -22,11 +22,11 @@
 10. > Retorne o nome de todos os lanches que tenham o percentual de proteínas maior ou igual a 30 e menor ou igual a 40
     >> desafio10.js
 11. > Retorne o nome do produto, a quantidade de curtidas e quantos itens foram vendidos dos produtos que não sejam iguais a Big Mac e McChicken
-   >> desafio11.js
+    >> desafio11.js
 12. > Adicione ketchup aos ingredientes para todos os sanduíches menos o McChicken, garantindo que não haja duplicidade nos ingredientes
-   >> desafio12
+    >> desafio12
 13. > Inclua o campo criadoPor em todos os documentos, colocando Ronald McDonald no valor desse campo
-   >> desafio13.js
+    >> desafio13.js
 14. > Crie uma query que retorne todos os lanches que possuem picles em seus ingredientes e mostre apenas os 3 primeiros itens contidos no array valoresNutricionais. Sua query deve retornar apenas os campos nome, ingredientes e valoresNutricionais.
    >> desafio14.js
 15. > Adicione o campo avaliacao em todos os documentos da coleção e efetue alterações nesse campo
