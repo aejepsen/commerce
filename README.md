@@ -3,24 +3,24 @@
 >> ### Querys dos respectivos desafios:
 1. > Retorne a quantidade de documentos inseridos na coleção produtos:
    >> **desafio1.js**
-- > Ordene a coleção produtos pela quantidade de lanches vendidos em ordem crescente, mostrando apenas o nome e a quantidade de lanches vendidos:
-  >> **desafio2.js**
-- > Retorne o lanche mais vendido, mostrando apenas o nome e a quantidade do lanche mais vendido:
-  >> **desafio3.js**
-- > Retorne os lanches que tiveram vendas maiores que 50 e menores que 100, mostrando apenas o nome e a quantidade de lanches vendidos em ordem crescente:
-  >> **desafio4.js**
-- > Retorne o nome, as curtidas e vendidos dos lanches que tiveram quantidade de curtidas igual a 36 ou tenham a quantidade de vendas igual a 85:
-  >> **desafio5.js**
-- > Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100:
-  >> desafio6.js
-- > Retorne o nome e vendidos dos lanches que tenham sido vendidos com uma quantidade diferente de 50 e em que o campo tags não exista:
-  >> desafio7.js
-- > Delete os lanches com menos de 50 curtidas e retorne o nome dos lanches que restaram no banco
-  >> desafio8.js
-- > Retorne o nome de todos os lanches que possuam calorias abaixo de 500
-  >> desafio9.js.
-- > Retorne o nome de todos os lanches que tenham o percentual de proteínas maior ou igual a 30 e menor ou igual a 40
-  >> desafio10.js
+2. > Ordene a coleção produtos pela quantidade de lanches vendidos em ordem crescente, mostrando apenas o nome e a quantidade de lanches vendidos:
+   >> **desafio2.js**
+3. > Retorne o lanche mais vendido, mostrando apenas o nome e a quantidade do lanche mais vendido:
+   >> **desafio3.js**
+4. > Retorne os lanches que tiveram vendas maiores que 50 e menores que 100, mostrando apenas o nome e a quantidade de lanches vendidos em ordem crescente:
+   >> **desafio4.js**
+5. > Retorne o nome, as curtidas e vendidos dos lanches que tiveram quantidade de curtidas igual a 36 ou tenham a quantidade de vendas igual a 85:
+   >> **desafio5.js**
+6. > Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100:
+   >> desafio6.js
+7. > Retorne o nome e vendidos dos lanches que tenham sido vendidos com uma quantidade diferente de 50 e em que o campo tags não exista:
+   >> desafio7.js
+8. > Delete os lanches com menos de 50 curtidas e retorne o nome dos lanches que restaram no banco
+   >> desafio8.js
+9. > Retorne o nome de todos os lanches que possuam calorias abaixo de 500
+   >> desafio9.js.
+10. > Retorne o nome de todos os lanches que tenham o percentual de proteínas maior ou igual a 30 e menor ou igual a 40
+    >> desafio10.js
 - > Retorne o nome do produto, a quantidade de curtidas e quantos itens foram vendidos dos produtos que não sejam iguais a Big Mac e McChicken
   >> desafio11.js
 - > Adicione ketchup aos ingredientes para todos os sanduíches menos o McChicken, garantindo que não haja duplicidade nos ingredientes
