@@ -24,31 +24,16 @@
 - > Retorne o nome do produto, a quantidade de curtidas e quantos itens foram vendidos dos produtos que não sejam iguais a Big Mac e McChicken
   >> desafio11.js
 - > Adicione ketchup aos ingredientes para todos os sanduíches menos o McChicken, garantindo que não haja duplicidade nos ingredientes
-  -  Crie uma query que adicione ketchup aos ingredientes para todos os sanduíches menos o McChicken, garantindo que não haja duplicidade nos ingredientes.
-  -  Crie uma query que retorne o nome e ingredientes de todos os documentos.
   >> desafio12
 - > 13 - Inclua o campo criadoPor em todos os documentos, colocando Ronald McDonald no valor desse campo
-Para isso, escreva no arquivo desafio13.js duas queries, nesta ordem:
+  >> desafio13.js
+- > Crie uma query que retorne todos os lanches que possuem picles em seus ingredientes e mostre apenas os 3 primeiros itens contidos no array valoresNutricionais. Sua query deve retornar apenas os campos nome, ingredientes e valoresNutricionais.
+  >> desafio14.js
+- > Adicione o campo avaliacao em todos os documentos da coleção e efetue alterações nesse campo
+Crie uma query que inclua o campo avaliacao do tipo NumberInt, com o valor 0 em todos os documentos da coleção.Crie uma query que incremente o valor do campo avaliacao em 5 em todos os sanduíches de carne do tipo bovino. eyesDe olho na dica: utilize como filtro o campo tags.Crie uma query que incremente o valor do campo avaliacao em 3 em todos os sanduíches de ave.Crie uma query que retorne o nome e avaliacao de todos os sanduíches.
+  >> desafio15.js
 
-Crie uma query que adicione o campo criadoPor em todos os documentos, colocando "Ronald McDonald" no valor desse campo.
 
-Crie uma query que retorne o nome e criadoPor de todos os produtos.
-
-14 - Crie uma query que retorne todos os lanches que possuem picles em seus ingredientes e mostre apenas os 3 primeiros itens contidos no array valoresNutricionais
-Esta escrito no arquivo desafio14.js
-Sua query deve retornar apenas os campos nome, ingredientes e valoresNutricionais.
-eyesDe olho na dica: para realizar esse requisito, explore a implementação do $sliceatravés do conteúdo desse link
-
-15 - Adicione o campo avaliacao em todos os documentos da coleção e efetue alterações nesse campo
-Para isso, escreva no arquivo desafio15.js quatro queries, nesta ordem:
-
-Crie uma query que inclua o campo avaliacao do tipo NumberInt, com o valor 0 em todos os documentos da coleção.
-
-Crie uma query que incremente o valor do campo avaliacao em 5 em todos os sanduíches de carne do tipo bovino. eyesDe olho na dica: utilize como filtro o campo tags.
-
-Crie uma query que incremente o valor do campo avaliacao em 3 em todos os sanduíches de ave.
-
-Crie uma query que retorne o nome e avaliacao de todos os sanduíches.
 
 16 - Adicione o campo ultimaModificacao com a data corrente somente no sanduíche Big Mac
 Para isso, escreva no arquivo desafio16.js duas queries, nesta ordem:
