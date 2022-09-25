@@ -1,9 +1,9 @@
 > # Projeto de Commerce MongoBD
 >> ## O projeto está desenvolvido em varios arquivos dentro da pasta challenges.
 > ### Querys dos respectivos desafios
-> Retorne a quantidade de documentos inseridos na coleção produtos:
+- > Retorne a quantidade de documentos inseridos na coleção produtos:
   >> **desafio1.js**
-> Ordene a coleção produtos pela quantidade de lanches vendidos em ordem crescente, mostrando apenas o nome e a quantidade de lanches vendidos:
+- > Ordene a coleção produtos pela quantidade de lanches vendidos em ordem crescente, mostrando apenas o nome e a quantidade de lanches vendidos:
   >> **desafio2.js**
 - 3 - Retorne o lanche mais vendido, mostrando apenas o nome e a quantidade do lanche mais vendido: Resposta: **desafio3.js**
 - 4 - Retorne os lanches que tiveram vendas maiores que 50 e menores que 100, mostrando apenas o nome e a quantidade de lanches vendidos em ordem crescente: Resposta: **desafio4.js**
