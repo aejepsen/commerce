@@ -26,7 +26,7 @@
 - > Adicione ketchup aos ingredientes para todos os sanduíches menos o McChicken, garantindo que não haja duplicidade nos ingredientes
   - >> Crie uma query que adicione ketchup aos ingredientes para todos os sanduíches menos o McChicken, garantindo que não haja duplicidade nos ingredientes.
   - >> Crie uma query que retorne o nome e ingredientes de todos os documentos.
-  >> desafio12
+  >>> desafio12
 - > 13 - Inclua o campo criadoPor em todos os documentos, colocando Ronald McDonald no valor desse campo
 Para isso, escreva no arquivo desafio13.js duas queries, nesta ordem:
 
