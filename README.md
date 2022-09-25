@@ -34,96 +34,37 @@ Crie uma query que inclua o campo avaliacao do tipo NumberInt, com o valor 0 em 
   >> desafio15.js
 - > 16 Adicione o campo ultimaModificacao com a data corrente somente no sanduíche Big Mac. Crie uma query que inclua somente ao sanduíche Big Mac o campo ultimaModificacao com a data corrente. Para a data corrente faça uso do tipo date ou timestamp. Crie uma query que retorne o nome de todos os documentos em que o campo ultimaModificacao existe. 
   >> desafio16.js
-- 17 > 17 Retorne a quantidade total de produtos em uma nova coleção chamada resumoProdutos. Crie uma query que insira na coleção resumoProdutos um documento com os campos: franquia com o valor McDonalds e totalProdutos com o valor sendo a quantidade total de produtos registrados na coleção produtos.Crie uma query que retorne os campos franquia e o totalProdutos da coleção resumoProdutos, resultantes da primeira query.
+- > 17 Retorne a quantidade total de produtos em uma nova coleção chamada resumoProdutos. Crie uma query que insira na coleção resumoProdutos um documento com os campos: franquia com o valor McDonalds e totalProdutos com o valor sendo a quantidade total de produtos registrados na coleção produtos.Crie uma query que retorne os campos franquia e o totalProdutos da coleção resumoProdutos, resultantes da primeira query.
   >> desafio17.js 
-- > Inclua bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo
-Para isso, escreva no arquivo desafio18.js duas queries, nesta ordem:
-
-Crie uma query que faça a inclusão de bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo.
-
-Crie uma query que retorne o nome e ingredientes de todos os documentos.
-
-19 - Remova o item cebola de todos os sanduíches
-Para isso, escreva no arquivo desafio19.js duas queries, nesta ordem:
-
-Crie uma query que faça a remoção do item cebola em todos os sanduíches.
-
-Crie uma query que retorne o nome e ingredientes de todos os documentos.
-
-20 - Remova o primeiro ingrediente do sanduíche Quarteirão com Queijo
-Para isso, escreva no arquivo desafio20.js duas queries, nesta ordem:
-
-Crie uma query que faça a remoção do primeiro ingrediente no sanduíche Quarteirão com Queijo.
-
-Crie uma query que retorne o nome e ingredientes de todos os documentos.
-
-21 - Remova o último ingrediente do sanduíche Cheddar McMelt
-Para isso, escreva no arquivo desafio21.js duas queries, nesta ordem:
-
-Crie uma query que faça a remoção do último ingrediente no sanduíche Cheddar McMelt.
-
-Crie uma query que retorne o nome e ingredientes de todos os documentos.
-
-22 - Adicione a quantidade de vendas dos sanduíches por dia da semana
-Para isso, escreva no arquivo desafio22.js quatro queries, nesta ordem:
-
-Crie uma query que inclua um campo vendasPorDia em todos os sanduíches. O valor deste campo deverá ser um array com sete posições. Cada uma delas representará um dia da semana, e cada posição iniciará em 0. O array deve seguir a estrutura do exemplo abaixo:
-"vendasPorDia": [0, 0, 0, 0, 0, 0, 0]
-O primeiro item desse array representa as vendas no domingo, o segundo item representa as vendas na segunda-feira, e assim sucessivamente até chegar ao último item, que representa as vendas no sábado.
-
-Crie uma query que incremente as vendas de Big Mac às quartas-feiras em 60.
-
-Crie uma query que incremente as vendas de todos os sanduíches de carne do tipo bovino aos sábados em 120.
-
-Crie uma query que retorne o nome e vendasPorDia de todos os documentos.
-
-23 - Insira os valores combo e tasty no array tags de todos os sanduíches e aproveite para deixar os valores em ordem alfabética ascendente (A a Z)
-Para isso, escreva no arquivo desafio23.js duas queries, nesta ordem:
-
-Crie uma query que faça tanto a inserção dos valores combo e tasty no array tags de todos os sanduíches. Ordene os valores de tags em ordem alfabética ascendente.
-
+- > 18 Inclua bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo. Crie uma query que faça a inclusão de bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo.Crie uma query que retorne o nome e ingredientes de todos os documentos.
+  >> desafio18.js
+- > 19 Remova o item cebola de todos os sanduíches. Crie uma query que faça a remoção do item cebola em todos os sanduíches. Crie uma query que retorne o nome e ingredientes de todos os documentos.
+  >> desafio19.js
+- > 20 Remova o primeiro ingrediente do sanduíche Quarteirão com Queijo. Crie uma query que faça a remoção do primeiro ingrediente no sanduíche Quarteirão com Queijo.
+  >> desafio20.js
+- > 21 Remova o último ingrediente do sanduíche Cheddar McMelt. Crie uma query que faça a remoção do último ingrediente no sanduíche Cheddar McMelt.
+  >> desafio21.js
+- > 22 Adicione a quantidade de vendas dos sanduíches por dia da semana. Crie uma query que inclua um campo vendasPorDia em todos os sanduíches. O valor deste campo deverá ser um array com sete posições. Cada uma delas representará um dia da semana, e cada posição iniciará em 0. O array deve seguir a estrutura do exemplo abaixo: "vendasPorDia": [0, 0, 0, 0, 0, 0, 0] O primeiro item desse array representa as vendas no domingo, o segundo item representa as vendas na segunda-feira, e assim sucessivamente até chegar ao último item, que representa as vendas no sábado.Crie uma query que incremente as vendas de Big Mac às quartas-feiras em 60.Crie uma query que incremente as vendas de todos os sanduíches de carne do tipo bovino aos sábados em 120.Crie uma query que retorne o nome e vendasPorDia de todos os documentos.
+  >> desafio22.js
+- > 23 Insira os valores combo e tasty no array tags de todos os sanduíches e aproveite para deixar os valores em ordem alfabética ascendente (A a Z). Crie uma query que faça tanto a inserção dos valores combo e tasty no array tags de todos os sanduíches. Ordene os valores de tags em ordem alfabética ascendente. Crie uma query que retorne o nome e tags de todos os documentos.
+  >> desafio23.js
+- > 24 Ordene em todos os documentos os valores do array valoresNutricionais pelo campo percentual de forma decrescente. Crie uma query que faça em todos os documentos a ordenação dos valores do array valoresNutricionais pelo campo percentual de forma decrescente. eyesDe olho na dica: mesmo sem adicionar nenhum novo valor, para essa operação é necessário utilizar também o modificador $each. Crie uma query que retorne o nome e valoresNutricionais de todos os documentos.
+  >> desafio24.j
+- > 25 Adicione o valor muito sódio ao final do array tags nos produtos em que o percentual de sódio seja maior ou igual a 40. 
+Crie uma query que faça a adição do valor muito sódio ao final do array tags nos produtos em que o percentual de sódio seja maior ou igual a 40. Crie uma query que retorne o nome e tags de todos os documentos.
+  >> desafio25.js
+- > 26 Adicione o valor contém sódio ao final do array tags nos produtos em que o percentual de sódio seja maior do que 20 e menor do que 40. Crie uma query que faça a adição do valor contém sódio ao final do array tags nos produtos em que o percentual de sódio seja maior do que 20 e menor do que 40.
 Crie uma query que retorne o nome e tags de todos os documentos.
-
-24 - Ordene em todos os documentos os valores do array valoresNutricionais pelo campo percentual de forma decrescente
-Para isso, escreva no arquivo desafio24.js duas queries, nesta ordem:
-
-Crie uma query que faça em todos os documentos a ordenação dos valores do array valoresNutricionais pelo campo percentual de forma decrescente. eyesDe olho na dica: mesmo sem adicionar nenhum novo valor, para essa operação é necessário utilizar também o modificador $each.
-
-Crie uma query que retorne o nome e valoresNutricionais de todos os documentos.
-
-25 - Adicione o valor muito sódio ao final do array tags nos produtos em que o percentual de sódio seja maior ou igual a 40
-Para isso, escreva no arquivo desafio25.js duas queries, nesta ordem:
-
-Crie uma query que faça a adição do valor muito sódio ao final do array tags nos produtos em que o percentual de sódio seja maior ou igual a 40.
-
-Crie uma query que retorne o nome e tags de todos os documentos.
-
-26 - Adicione o valor contém sódio ao final do array tags nos produtos em que o percentual de sódio seja maior do que 20 e menor do que 40
-Para isso, escreva no arquivo desafio26.js duas queries, nesta ordem:
-
-Crie uma query que faça a adição do valor contém sódio ao final do array tags nos produtos em que o percentual de sódio seja maior do que 20 e menor do que 40.
-
-Crie uma query que retorne o nome e tags de todos os documentos.
-
-27 - Conte quantos produtos contém Mc no nome, sem considerar letras maiúsculas ou minúsculas
-Esta escrito no arquivo desafio27.js
-28 - Conte quantos produtos têm 4 ingredientes
-Esta escrito no arquivo desafio28.js
-29 - Renomeie o campo descricao para descricaoSite em todos os documentos
-Para isso, escreva no arquivo desafio29.js duas queries, nesta ordem:
-
-Crie uma query que faça a renomeação do campo descricao para descricaoSite em todos os documentos.
-
-Crie uma query que retorne o nome e descricaoSite de todos os documentos.
-
-30 - Remova o campo curtidas do item Big Mac
-Para isso, escreva no arquivo desafio30.js duas queries, nesta ordem:
-
-Crie uma query que faça a remoção do campo curtidas do item Big Mac.
-
-Crie uma query que retorne o nome para todos os documentos e curtidas (exceto para Big Mac).
-
-31 - Retorne o nome dos sanduíches em que o número de curtidas é maior que o número de sanduíches vendidos
-Esta escrito no arquivo desafio31.js
-32 - Retorne o nome e a quantidade de vendas (vendidos) dos sanduíches em que o número de vendas é múltiplo de 5
-Esta escrito no arquivo desafio32.js
+  >> desafio26.js
+- > 27 Conte quantos produtos contém Mc no nome, sem considerar letras maiúsculas ou minúsculas
+  >> desafio27.js
+- > 28 Conte quantos produtos têm 4 ingredientes
+  >> desafio28.js
+- > 29 Renomeie o campo descricao para descricaoSite em todos os documentos. Crie uma query que faça a renomeação do campo descricao para descricaoSite em todos os documentos.Crie uma query que retorne o nome e descricaoSite de todos os documentos.
+  >> desafio29.js
+- > 30 Remova o campo curtidas do item Big Mac. Crie uma query que faça a remoção do campo curtidas do item Big Mac.Crie uma query que retorne o nome para todos os documentos e curtidas (exceto para Big Mac).
+  >> desafio30.js
+- > 31 Retorne o nome dos sanduíches em que o número de curtidas é maior que o número de sanduíches vendidos
+  >> desafio31.js
+- > 32 Retorne o nome e a quantidade de vendas (vendidos) dos sanduíches em que o número de vendas é múltiplo de 5
+  >> desafio32.js
