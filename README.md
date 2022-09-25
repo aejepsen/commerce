@@ -1,5 +1,5 @@
-> # Projeto de MongoBD
->> ## O projeto está desenvolvido em varios arquivos dentro da pasta challenges renomeados em ordem seguindo o padrão desafio1...
+> # Projeto de Commerce MongoBD
+>> ## O projeto está desenvolvido em varios arquivos dentro da pasta challenges.
 > ### Querys dos respectivos desafios
 - > 1 -Retorne a quantidade de documentos inseridos na coleção produtos:
   >> *desafio1.js*
