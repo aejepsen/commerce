@@ -5,7 +5,8 @@
   >> **desafio1.js**
 - > Ordene a coleção produtos pela quantidade de lanches vendidos em ordem crescente, mostrando apenas o nome e a quantidade de lanches vendidos:
   >> **desafio2.js**
-- 3 - Retorne o lanche mais vendido, mostrando apenas o nome e a quantidade do lanche mais vendido: Resposta: **desafio3.js**
+- > Retorne o lanche mais vendido, mostrando apenas o nome e a quantidade do lanche mais vendido:
+  >> **desafio3.js**
 - 4 - Retorne os lanches que tiveram vendas maiores que 50 e menores que 100, mostrando apenas o nome e a quantidade de lanches vendidos em ordem crescente: Resposta: **desafio4.js**
 - 5 - Retorne o nome, as curtidas e vendidos dos lanches que tiveram quantidade de curtidas igual a 36 ou tenham a quantidade de vendas igual a 85: Resposta: **desafio5.js**
 6 - Retorne o nome e as curtidas dos lanches que tiveram curtidas maiores que 10 e menores que 100
