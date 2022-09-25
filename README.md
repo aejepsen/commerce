@@ -27,29 +27,16 @@
   >> desafio12
 - > 13 - Inclua o campo criadoPor em todos os documentos, colocando Ronald McDonald no valor desse campo
   >> desafio13.js
-- > Crie uma query que retorne todos os lanches que possuem picles em seus ingredientes e mostre apenas os 3 primeiros itens contidos no array valoresNutricionais. Sua query deve retornar apenas os campos nome, ingredientes e valoresNutricionais.
+- > 14 Crie uma query que retorne todos os lanches que possuem picles em seus ingredientes e mostre apenas os 3 primeiros itens contidos no array valoresNutricionais. Sua query deve retornar apenas os campos nome, ingredientes e valoresNutricionais.
   >> desafio14.js
-- > Adicione o campo avaliacao em todos os documentos da coleção e efetue alterações nesse campo
+- > 15 Adicione o campo avaliacao em todos os documentos da coleção e efetue alterações nesse campo
 Crie uma query que inclua o campo avaliacao do tipo NumberInt, com o valor 0 em todos os documentos da coleção.Crie uma query que incremente o valor do campo avaliacao em 5 em todos os sanduíches de carne do tipo bovino. eyesDe olho na dica: utilize como filtro o campo tags.Crie uma query que incremente o valor do campo avaliacao em 3 em todos os sanduíches de ave.Crie uma query que retorne o nome e avaliacao de todos os sanduíches.
   >> desafio15.js
-
-
-
-16 - Adicione o campo ultimaModificacao com a data corrente somente no sanduíche Big Mac
-Para isso, escreva no arquivo desafio16.js duas queries, nesta ordem:
-
-Crie uma query que inclua somente ao sanduíche Big Mac o campo ultimaModificacao com a data corrente. Para a data corrente faça uso do tipo date ou timestamp.
-
-Crie uma query que retorne o nome de todos os documentos em que o campo ultimaModificacao existe.
-
-17 - Retorne a quantidade total de produtos em uma nova coleção chamada resumoProdutos
-Para isso, escreva no arquivo desafio17.js duas queries, nesta ordem:
-
-Crie uma query que insira na coleção resumoProdutos um documento com os campos: franquia com o valor McDonalds e totalProdutos com o valor sendo a quantidade total de produtos registrados na coleção produtos.
-
-Crie uma query que retorne os campos franquia e o totalProdutos da coleção resumoProdutos, resultantes da primeira query.
-
-18 - Inclua bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo
+- > 16 Adicione o campo ultimaModificacao com a data corrente somente no sanduíche Big Mac. Crie uma query que inclua somente ao sanduíche Big Mac o campo ultimaModificacao com a data corrente. Para a data corrente faça uso do tipo date ou timestamp. Crie uma query que retorne o nome de todos os documentos em que o campo ultimaModificacao existe. 
+  >> desafio16.js
+- 17 > 17 Retorne a quantidade total de produtos em uma nova coleção chamada resumoProdutos. Crie uma query que insira na coleção resumoProdutos um documento com os campos: franquia com o valor McDonalds e totalProdutos com o valor sendo a quantidade total de produtos registrados na coleção produtos.Crie uma query que retorne os campos franquia e o totalProdutos da coleção resumoProdutos, resultantes da primeira query.
+  >> desafio17.js 
+- > Inclua bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo
 Para isso, escreva no arquivo desafio18.js duas queries, nesta ordem:
 
 Crie uma query que faça a inclusão de bacon no final da lista de ingredientes dos sanduíches Big Mac e Quarteirão com Queijo.
